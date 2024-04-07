@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(199, 198, 198);
+}
+p{
+    color: blue;
+}
+h1, h2, h3{
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
+img{
+    border: 2px solid black;
+}
+h1{
+    color: red;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+    font-style: italic;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+}
+ul li{
+    padding: 7px;
+}
+header{
+    margin: 20px 10px;
+}
+nav{
+    width: 20%;
+    padding: 10px;
+    font-size: 25px;
+}
+article{
+    width: 70%;
+    height: 80%;
+    padding: 0 20px;
+    text-align: left;
+    margin: 30px;
+    font-size: 30px;
+}
+input{
+    padding: 10px;
+    font-size: 16px;
+}
+aside{
+    width: 25%;
+    padding: 10px;
+    border: 1px solid black;
+    float: right;
+    font-size: 23px;
+    margin-right: 40px;
+    padding: 20px;
+    text-align: right7;
+}
+aside p{
+    color: brown;
+}
+footer{
+    margin: 10px 0px 20px 0px;
+    text-align: center;
+    font-size: 30px;
+}
+#birthday-girl{
+    display: block;
+    margin: 50px auto;
+    width: 30%;
+    padding: 10px;
+    border-radius: 20px;
+}
+img{
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+span{
+    color: rgb(190, 88, 57);
+    font-size: 35px;
+    font-style: italic;
+}
